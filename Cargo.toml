@@ -1,0 +1,10 @@
+[package]
+name = "bookmarkchecker"
+version = "0.0.1"
+authors = [ "Mathias Schäfer <zapperlott@gmail.com>" ]
+
+[dependencies]
+csv = "0.14.7"
+rustc-serialize = "0.3.22"
+hyper = "0.9.14"
+rayon = "0.7.0"
